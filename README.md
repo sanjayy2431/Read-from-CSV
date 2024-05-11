@@ -32,8 +32,6 @@ print(df.tail())
 print("Number of rows:",len(df.axes[0]))
 print("Number of columns:",len(df.axes[1]))
 ```
-## PROGRAM:
-
 ## OUTPUT:
-
+![alt text](image.png)
 ## RESULT:
